@@ -1,5 +1,5 @@
 # downscl_sentinel3
- This repo is dedicated to downscaling Sentinel-3 SLSTR LST using Sentinel-1 SAR,
+ This repo is dedicated to downscaling Sentinel-3 SLSTR LST using RVI (radar vegetation index) generated from Sentinel-1 SAR,
  ESA WorldCover, and DSM data
  
  The 'sentinelsat.py' script enables users to download the corresponding Sentinel-3 and 
